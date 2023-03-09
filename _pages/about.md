@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Sentry Robot Lead at Triton Robotics Inc. | Research Assistant | Instructional Assistant
 
 profile:
   align: right
