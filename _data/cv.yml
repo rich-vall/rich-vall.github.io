@@ -23,34 +23,34 @@
   contents:
     - title: Sentry Robot Lead
       institution: <a href='https://tritonrobotics.ucsd.edu' target="_blank">Triton Robotics Inc.</a>
-      year: July 2022 - Present
+      year: Jul '22-Present
       description:
         - Leading the Sentry subteam and employing project management tools (Gantt chart) to maintain deadlines.
         - Communicating with electronics, embedded, and computer-vision teams to integrate software components into the robot.
-        - title: Using SOLIDWORKS to design and assemble various components for the robot, such as":"
+        - title: Using SOLIDWORKS to design and assemble various components for the robot, such as
           contents:
             - A base structure with adjustable mounting to sufficiently support a rotating turret
             - A pitch control structure for the turret barrel and flywheel shooting system.
             - (WIP) A full assembly of the Sentry robot using self and team member made components to ensure the quality of design and manufacturability.
     - title: Engineer Robot Lead
       institution: <a href='https://tritonrobotics.ucsd.edu' target="_blank">Triton Robotics Inc.</a>
-      year: March 2022 - July 2022
+      year: Mar '22-Jul '22
       description:
         - Description 1.
         - Description 2.
 
     - title: Mechanical Team Member
       institution: <a href='https://tritonrobotics.ucsd.edu' target="_blank">Triton Robotics Inc.</a>
-      year: September 2021 - March 2022
+      year: Sept '21-March '22
 
     - title: Instructional Assistant
       institution: <a href='https://ucsd.edu/' target="_blank">University of California San Diego</a>
-      year: March 2023 - Present
+      year: Mar '23 - Present
       description:
 
     - title: Research Assistant
       institution: <a href='https://ucsd.edu/' target="_blank">University of California San Diego</a>
-      year: October 2022 - Present
+      year: Oct '22 - Present
 
 - title: Open Source Projects
   type: time_table
