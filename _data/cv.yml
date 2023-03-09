@@ -4,7 +4,7 @@
     - name: Full Name
       value: Richard Eugene Vallejo Jr
     - name: Date of Birth
-      value: 29th March 2003
+      value: 29th July, 2003
     - name: Languages
       value: English, Limited Spanish
 
@@ -36,21 +36,34 @@
       institution: <a href='https://tritonrobotics.ucsd.edu' target="_blank">Triton Robotics Inc.</a>
       year: Mar '22-Jul '22
       description:
-        - Description 1.
-        - Description 2.
+        - Led the Engineer subteam and employed project management tools (gantt chart, monday.com, etc) to maintain deadlines
+        - Communicated with electronics and embedded subteam to integrate related components into the robot.
+        - Used SOLIDWORKS to integrate all components of the Engineer robot into a final assembly to ensure the quality of design and manufacturability.
+        - Manufactured parts for the robot using machine shop and power tools, as well as 3D printing and laser cutting.
+        - Assembled components of the robot to compete in the RoboMaster University League competition at Texas A&M.
 
     - title: Mechanical Team Member
       institution: <a href='https://tritonrobotics.ucsd.edu' target="_blank">Triton Robotics Inc.</a>
       year: Sept '21-March '22
+      description:
+        - Conducted research and implemented a pneumatics system to control a pneumatic claw. Included calculations of required reserve pressure and volume, creation of bill of materials, and presentation to the organization for approval.
+        - Designed using SOLIDWORKS and manufactured a pneumatic claw, including an extension mechanism utilizing a rack and pinion system on drawer slides.
 
     - title: Instructional Assistant
       institution: <a href='https://ucsd.edu/' target="_blank">University of California San Diego</a>
       year: Mar '23 - Present
       description:
+        - Introduction to Engineering Graphics and Design course.
+        - Starting soon extremely excited about the opportunity!
 
     - title: Research Assistant
       institution: <a href='https://ucsd.edu/' target="_blank">University of California San Diego</a>
       year: Oct '22 - Present
+      description:
+        - Principle Investigator: Huihui Qi, Assistant Teaching Professor at the Department of Mechanical and Aerospace Engineering
+        - Creating educational demonstrations and hands-on learning models for students in Statics and Mechanics of Materials classes.
+        - Coauthor on a publication pending review by the American Society of Engineering Education on the effectiveness of inquiry-based learning activities in engineering education.
+        - Designed a low-cost pulley demonstration in Fusion360 and manufactured hands-on truss models using a Lasercamm.
 
 - title: Open Source Projects
   type: time_table
