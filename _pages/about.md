@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Sentry Robot Lead at Triton Robotics Inc. | Research Assistant | Instructional Assistant
+subtitle: Sentry Robot Lead at <a href='tritonrobotics.ucsd.edu'>Triton Robotics Inc.</a>. Research Assistant for Huihui Qi. Instructional Assistant
 
 profile:
   align: right
