@@ -26,4 +26,4 @@ Hello! My name is Richard Vallejo, I am a second-year student at the University 
 
 I am passionate about the fields of Robotics and Engineering Education. I strive to learn more about mechanical, electronic, and software systems, as well as gather valuable experience in mentorship and teaching positions.
 
-In my free time, I love making art with spray paint, learning to cook new recipes, and working on passion projects. I am currently in the design stage for a 6-degree-of-freedom robotic arm, learning the basics of Arduino controls and circuits in the process.
+In my free time, I love making art with spray paint, learning to cook new recipes, and working on passion projects. I am currently in the design stage of a 6-degree-of-freedom robotic arm, learning the basics of Arduino controls and circuits in the process.
