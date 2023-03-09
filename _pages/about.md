@@ -8,9 +8,9 @@ profile:
   align: left
   image: profile_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: >
-    <p>Pomona, California</p>
-    <p>La Jolla, California</p>
+  #address: >
+    #<p>Pomona, California</p>
+    #<p>La Jolla, California</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
