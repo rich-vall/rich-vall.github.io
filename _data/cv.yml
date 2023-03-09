@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: BE, B.S. in Mechanical Engineering with a sepcialization in Controls and Robotics
+    - title: BE, B.S. in Mechanical Engineering, Specialization in Controls and Robotics
       institution: University of California San Diego, La Jolla, California
       year: Expected 2025
     - title: High School Diploma
@@ -22,7 +22,7 @@
   type: time_table
   contents:
     - title: Sentry Robot Lead
-      institution: Triton Robotics Inc.
+      institution: <a href='https://tritonrobotics.ucsd.edu' target="_blank">Triton Robotics Inc.</a>
       year: July 2022 - Present
       description:
         - Description 1.
