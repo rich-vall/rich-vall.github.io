@@ -5,9 +5,9 @@ permalink: /
 subtitle: Sentry Robot Lead at <a href='https://tritonrobotics.ucsd.edu' target="_blank">Triton Robotics Inc</a>. Research Assistant. <a href='https://mae3.eng.ucsd.edu/' target="_blank">Instructional Assistant</a>.
 
 profile:
-  align: right
+  align: left
   image: profile_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Pomona, California</p>
     <p>La Jolla, California</p>
