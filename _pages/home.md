@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: Sentry Robot Lead at <a href='https://tritonrobotics.ucsd.edu' target="_blank">Triton Robotics Inc</a>. Research Assistant. <a href='https://mae3.eng.ucsd.edu/' target="_blank">Instructional Assistant</a>.
 
