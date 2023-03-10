@@ -83,7 +83,7 @@
   contents:
     - title: 6 Degree of Freedom Robotic Arm
       year: Mar '23-now
-      image: '<img src="/assets/img/profile_pic.jpg" style="width: 50%; float:right">'
+      image: '<img src="/assets/img/profile_pic.jpg">'
       description: 
         - (WIP) Passion project using servos, Arduino, and 3D printed components designed in SolidWorks.
         - Learning basic Arduino control and circuits to actuate the arm using a series of switches.
