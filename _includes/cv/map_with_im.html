@@ -1,9 +1,13 @@
-<table class="table table-sm table-borderless table-responsive">
-    {% for content in entry.contents %}
-      <tr>
-        <td class="p-1 pr-2 font-weight-bold"><b>{{ content.name }}</b></td>
-        <td class="p-1 pl-2 font-weight-light text">{{ content.value }}</td>
-      </tr>
-    {% endfor %}
-    <img src="/assets/img/profile_pic.jpg" width="50%">
-</table>
+<div style="width:70%; float:left">
+  <table class="table table-sm table-borderless table-responsive">
+      {% for content in entry.contents %}
+        <tr>
+          <td class="p-1 pr-2 font-weight-bold"><b>{{ content.name }}</b></td>
+          <td class="p-1 pl-2 font-weight-light text">{{ content.value }}</td>
+        </tr>
+      {% endfor %}
+  </table>
+</div>
+<div style="width:30%; float:right">
+  <img src="/assets/img/profile_pic.jpg">
+</div>
