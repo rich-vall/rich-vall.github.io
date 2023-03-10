@@ -5,8 +5,25 @@
       value: Richard Eugene Vallejo Jr
     - name: Date of Birth
       value: 29th July, 2003
-    - name: Languages
-      value: English, Limited Spanish
+    - name: Hometown
+      value: Pomona, California
+      
+  - title: Academic Interests and Skills
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items: 
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Fun Facts
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
 
 - title: Education
   type: time_table
@@ -95,7 +112,7 @@
         - Description 1.
         - Description 2.
 
-- title: Interests and Fun Facts
+- title: Fun Facts
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
