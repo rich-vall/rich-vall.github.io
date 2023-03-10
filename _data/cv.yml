@@ -26,17 +26,17 @@
   contents:
     - title: BE, B.S. in Mechanical Engineering, Specialization in Controls and Robotics
       institution: University of California San Diego, La Jolla, California
-      year: Expected 2025
+      year: Expected '25
     - title: High School Diploma
       institution: Diamond Ranch High School, Pomona, California
-      year: 2021
+      year: '21
 
 - title: Experience
   type: time_table
   contents:
     - title: Sentry Robot Lead
       institution: <a href='https://tritonrobotics.ucsd.edu' target="_blank">Triton Robotics Inc.</a>
-      year: Jul '22-Present
+      year: Jul '22-now
       description:
         - Leading the Sentry subteam and employing project management tools (Gantt chart) to maintain deadlines.
         - Communicating with electronics, embedded, and computer-vision teams to integrate software components into the robot.
@@ -64,14 +64,14 @@
 
     - title: Instructional Assistant
       institution: <a href='https://ucsd.edu/' target="_blank">University of California San Diego</a>
-      year: Mar '23 - Present
+      year: Mar '23-now
       description:
         - Introduction to Engineering Graphics and Design course.
         - Starting soon extremely excited about the opportunity!
 
     - title: Research Assistant
       institution: <a href='https://ucsd.edu/' target="_blank">University of California San Diego</a>
-      year: Oct '22 - Present
+      year: Oct '22-now
       description:
         - "Principle Investigator: Huihui Qi, Assistant Teaching Professor at the Department of Mechanical and Aerospace Engineering"
         - Creating educational demonstrations and hands-on learning models for students in Statics and Mechanics of Materials classes.
@@ -82,7 +82,7 @@
   type: time_table
   contents:
     - title: 6 Degree of Freedom Robotic Arm
-      year: Mar '23-Present
+      year: Mar '23-now
       description: 
         - (WIP) Passion project using servos, Arduino, and 3D printed components designed in SolidWorks.
         - Learning basic Arduino control and circuits to actuate the arm using a series of switches.
@@ -110,10 +110,14 @@
 - title: Volunteering
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: FIRST Tech Challenge Mentor
+      year: Oct '20-now
+      description: I mentor my former FIRST Tech Challenge team Blueprints 7767. I aid with developing their competition strategy, GD&T, and DFM. In addition, I assist with the development of the student's communication skills through presentation practices and questioning
+
+    - title: Engineering Outreach Volunteer
+      year: Jan '22-Mar '22
+      description: I helped expose K-12 students in San Diego to mechanical engineering and provided peer-to-peer mentorship. This included teaching self-made lessons in basic CAD and isometric drawing to students at Chollas-Mead Elementary School and Hoover High School.
+
+    - title: FIRST Tech Challenge Event Staff
+      year: Feb '17-now
+      description: I volunteer for FIRST Tech Challenge events in the Southern California region, fulfilling various roles such as robot and field inspection, queuing, and pit administration.
