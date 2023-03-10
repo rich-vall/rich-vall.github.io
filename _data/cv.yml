@@ -8,22 +8,23 @@
     - name: Hometown
       value: Pomona, California
       
-- title: Academic Interests and Skills
+- title: Skills and Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Software
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - SolidWorks, Solidworks Simulation (Static), Fusion360, AutoCAD, Ultimaker Cura, MATLAB
+    - title: Manufacturing
       items:
-        - Description 1.
-        - Description 2.
+        - Shop manufacturing, Lasercamm, 3D Printing
+    - title: Fields of Study
+      items:
+        - Robotics, Engineering, Education, Machine Learning
 
 - title: Fun Facts
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Spray painting, board games, 
 
 - title: Education
   type: time_table
@@ -44,7 +45,7 @@
       description:
         - Leading the Sentry subteam and employing project management tools (Gantt chart) to maintain deadlines.
         - Communicating with electronics, embedded, and computer-vision teams to integrate software components into the robot.
-        - title: Using SOLIDWORKS to design and assemble various components for the robot, such as
+        - title: "Using SOLIDWORKS to design and assemble various components for the robot, such as:"
           contents:
             - A base structure with adjustable mounting to sufficiently support a rotating turret
             - A pitch control structure for the turret barrel and flywheel shooting system.
@@ -99,20 +100,3 @@
     - year: 2029
       items: 
         - Max Planck Medal
-
-- title: Academic Interests and Skills
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Fun Facts
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
