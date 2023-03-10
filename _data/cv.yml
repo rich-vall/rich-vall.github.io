@@ -21,11 +21,6 @@
       items:
         - Robotics, Engineering, Education, Machine Learning
 
-- title: Fun Facts
-  type: list
-  contents:
-    - <u>Hobbies:</u> Spray painting, board games, 
-
 - title: Education
   type: time_table
   contents:
@@ -86,9 +81,31 @@
 - title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: 6 Degree of Freedom Robotic Arm
+      year: Mar '23-Present
+      description: 
+        - (WIP) Passion project using servos, Arduino, and 3D printed components designed in SolidWorks.
+        - Learning basic Arduino control and circuits to actuate the arm using a series of switches.
+        - Currently still in the design stage of the project.
+    - title: MAE 3 Robot Contest
+      year: Oct '22-Dec '22
+      description: 
+        - Designed a parallelogram four-bar linkage claw mechanism in Fusion360 used to grab and place object inside of a small container.
+        - Performed Quasi-Static Analysis to calculate the required torque in order to grip each object and used a 5:2 gear ratio to obtain a factor of safety higher than 2.
+        - Received an award for best presentation in the contest based on the presentation of the overall robot construction and analysis of the four-bar linkage claw mechanism.
+    - title: MAE 3 Pendulum Clock
+      year: Sep '22-Oct '22
+      description: 
+        - Designed a pendulum clock in Fusion360 which functioned via an escapement wheel mechanism.
+        - Calculated the period of oscillation of the pendulum using a rigid-body assumption and compared it to experimental values to determine possible sources of error.
+        - Utilized AutoCAD to generate a dxf file to laser cut the pendulum clock and manufactured and assembled the clock mechanism using machine shop tools.
+    - title: Low-Cost Hands-Free Switch
+      year: Sep '21-Dec '21
+      description: 
+        - Worked in a team of four to design a simple hands-free light switch that activites based on a proximty sensor. 
+        - Created in an effort to provide a low-cost home automation technology that normally is inaccessible to certain populations due to cost or ease of use.
+        - Designed the electronics housing and switch actuation using Fusion360.
+        - Manufactured a test setup for the project using drywall, wood, and common lightbulb circuit components.
 
 - title: Volunteering
   type: time_table
