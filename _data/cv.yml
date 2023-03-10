@@ -8,7 +8,7 @@
     - name: Hometown
       value: Pomona, California
       
-  - title: Academic Interests and Skills
+- title: Academic Interests and Skills
   type: nested_list
   contents:
     - title: Topic 1.
