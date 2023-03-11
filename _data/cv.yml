@@ -3,10 +3,12 @@
   contents:
     - name: Full Name
       value: Richard Eugene Vallejo Jr
-    - name: Date of Birth
-      value: 29th July, 2003
-    - name: Hometown
-      value: Pomona, California
+    - name: Current Positions
+      value: Sentry Robot Lead at Triton Robotics Inc, Research Assistant and Instructional Assistant at UC San Diego
+    - name: Career Goal
+      value: I am pursing a career in the field of robotics, but I am not entirely sure specifically yet. I then want to transition to education at either the high school or collegiate level.
+    - name: Fun Fact
+      value: I am most proud of the work I have done in mentoring and teaching positions. It's extremely rewarding for me to help people out in even the smallest of ways. 
       
 - title: Skills and Interests
   type: nested_list
