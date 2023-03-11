@@ -3,13 +3,14 @@
   contents:
     - name: Full Name
       value: Richard Eugene Vallejo Jr
-    - name: Current Positions
-      value: Sentry Robot Lead at Triton Robotics Inc, Research Assistant and Instructional Assistant at UC San Diego
     - name: Career Goal
       value: I am pursing a career in the field of robotics, but I am not entirely sure specifically yet. I then want to transition to education at either the high school or collegiate level.
-    - name: Fun Fact
+    - name: Biggest Accomplishment
       value: I am most proud of the work I have done in mentoring and teaching positions. It's extremely rewarding for me to help people out in even the smallest of ways. 
-      
+    - name: Fun Fact
+      value: When I was a kid, I wanted to be a video game designer. However, in middle school I had my first robotics experience with a FIRST Lego League team, and I've never looked back.
+
+
 - title: Skills and Interests
   type: nested_list
   contents:
