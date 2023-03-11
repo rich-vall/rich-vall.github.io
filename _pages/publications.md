@@ -3,7 +3,7 @@ layout: page
 permalink: /Documentation/
 title: Documentation
 description: Documentation authored or co-authored by me from my projects and research.
-years: [2021, 2022, 2023]
+years: [2023, 2022, 2021]
 nav: true
 nav_order: 6
 ---
