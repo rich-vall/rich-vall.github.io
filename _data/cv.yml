@@ -32,10 +32,10 @@
       image: '<img src="/assets/img/ucsdlogo.png">'
       description: 
       - "Experiences: Triton Robotics Inc, Research Assistant, Instructional Assistant"
-      - <a href='/courses/' target="_blank">Courses.</a>
+      - <a href='/courses/' target="_blank">Coursework</a>
     - title: High School Diploma
       institution: Diamond Ranch High School, Pomona, California
-      year: "'17 - '21"
+      year: "2017 - 2021"
       image: '<img src="/assets/img/drlogo.png">'
 
 - title: Experience
@@ -119,6 +119,7 @@
   contents:
     - title: FIRST Tech Challenge Mentor
       year: Oct '20-now
+      image: '<img src="/assets/img/bpgroupphoto.jpg">'
       description: 
         - I mentor my former FIRST Tech Challenge team Blueprints 7767. I aid with developing their competition strategy, GD&T, and DFM. In addition, I assist with the development of the student's communication skills through presentation practices and questioning
     - title: Engineering Outreach Volunteer

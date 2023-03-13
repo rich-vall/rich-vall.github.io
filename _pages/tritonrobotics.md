@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects and Work
-permalink: /projects-and-work/
-description: A collection of my personal projects, work, and volunteering. 
+title: Triton Robotics
+permalink: /tritonrobotics/
+description: A collection of my work for Triton Robotics 
 nav: true
-nav_order: 4
-display_categories: [Personal, UCSD, Volunteering]
+nav_order: 3
+display_categories: ["Year 2: 2022-2023","Year 1: 2021-2022"]
 horizontal: false
 ---
 
