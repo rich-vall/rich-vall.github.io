@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-### Coursework in Winter 2022
+### Current Coursework
 + Statics & Intro to Dynamics
 + Linear Algebra
 + Intro to Differential Equations
