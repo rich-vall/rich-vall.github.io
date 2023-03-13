@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects and Work
-permalink: /projects-and-work/
+title: Projects
+permalink: /projects/
 description: A collection of my personal projects, work, and volunteering. 
 nav: true
 nav_order: 4
