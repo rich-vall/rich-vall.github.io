@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: Projects and Work
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of my personal projects, work, and volunteering. 
 nav: true
-nav_order: 5
-display_categories: [Personal, UCSD]
+nav_order: 4
+display_categories: [Personal, UCSD, Volunteering]
 horizontal: false
 ---
 

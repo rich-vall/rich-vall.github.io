@@ -5,7 +5,7 @@ title: Documentation
 description: Documentation authored or co-authored by me from my projects and research.
 years: [2023, 2022, 2021]
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
