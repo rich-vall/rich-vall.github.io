@@ -10,7 +10,6 @@
     - name: Fun Fact
       value: When I was a kid, I wanted to be a video game designer. However, in middle school I had my first robotics experience with a FIRST Lego League team, and I've never looked back.
 
-
 - title: Skills and Interests
   type: nested_list
   contents:
@@ -30,6 +29,7 @@
     - title: BE, B.S. in Mechanical Engineering, Specialization in Controls and Robotics
       institution: University of California San Diego, La Jolla, California
       year: "Expected '25"
+      image: '<img src="/assets/img/ucsdlogo.png">'
     - title: High School Diploma
       institution: Diamond Ranch High School, Pomona, California
       year: "'21"
@@ -86,7 +86,6 @@
   contents:
     - title: 6 Degree of Freedom Robotic Arm
       year: Mar '23-now
-      image: '<img src="/assets/img/profile_pic.jpg">'
       description: 
         - (WIP) Passion project using servos, Arduino, and 3D printed components designed in SolidWorks.
         - Learning basic Arduino control and circuits to actuate the arm using a series of switches.
