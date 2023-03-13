@@ -30,6 +30,9 @@
       institution: University of California San Diego, La Jolla, California
       year: "Expected '25"
       image: '<img src="/assets/img/ucsdlogo.png">'
+      description: 
+      - "Experiences: Triton Robotics Inc, Research Assistant, Instructional Assistant"
+      - " <a href='/courses/' target="_blank">Courses.</a>"
     - title: High School Diploma
       institution: Diamond Ranch High School, Pomona, California
       year: "'17 - '21"
