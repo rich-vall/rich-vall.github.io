@@ -32,7 +32,8 @@
       image: '<img src="/assets/img/ucsdlogo.png">'
     - title: High School Diploma
       institution: Diamond Ranch High School, Pomona, California
-      year: "'21"
+      year: "'17 - '21"
+      image: '<img src="/assets/img/drlogo.png">'
 
 - title: Experience
   type: time_table
