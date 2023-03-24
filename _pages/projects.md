@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Portfolio
+permalink: /portfolio/
 description: A collection of my personal projects, work, and volunteering. 
 nav: true
 nav_order: 4
-display_categories: [Personal, UCSD, Volunteering]
+display_categories: [UCSD, Personal, Volunteering]
 horizontal: false
 ---
 
